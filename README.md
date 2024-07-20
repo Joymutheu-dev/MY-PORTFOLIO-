@@ -1,6 +1,4 @@
-### README for GitHub Portfolio
-
-# Joy Mutheu's Software Development Portfolio
+###My Portfolio
 
 Welcome to my portfolio! I am Joy Mutheu, a software developer passionate about building large language models (LLMs) to study, analyze data, and draw meaningful connections. Here, you can find information about my projects, experiences, and how my work aims to make a positive impact, particularly in Kenya.
 
