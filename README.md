@@ -48,4 +48,4 @@ For collaboration, inquiries, or further information, feel free to reach out to 
 
 ---
 
-Thank you for visiting my portfolio! I look forward to connecting and exploring new opportunities to make a difference through technology. 
+Thank you for visiting my portfolio! I look forward to connecting and exploring new opportunities to make a difference in Kenya through technology. 
