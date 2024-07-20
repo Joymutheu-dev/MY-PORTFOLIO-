@@ -24,12 +24,12 @@ In 2020, I developed a deep learning model to track individuals with COVID-19 an
 - Using machine learning algorithms to analyze medical data and predict COVID-19 cases.
 - Implementing a screening tool to assist healthcare professionals in identifying potential cases early.
 
-### Safe Kura - AI-Powered Blockchain Voting System (2017)
+### Safe Kura - AI-Powered Blockchain Voting System (2024)
 Safe Kura is a project I started in 2017, aiming to create a secure and transparent voting system using AI and blockchain technology. The goal was to ensure credible elections in Kenya by:
 - Implementing a decentralized voting system resistant to tampering and fraud.
 - Utilizing AI to analyze voting patterns and detect anomalies.
 
-### Shillingi Yetu - Decentralized Kenyan Shilling (2025)
+### Shillingi Yetu - Decentralized Kenyan Shilling (2024)
 https://github.com/Joymutheu-dev/SHILLINGI-YETU--DECENTRALIZED-KENYAN-SHILLING-
 Shillingi Yetu, launched in 2025, is a project focused on creating a decentralized Kenyan shilling to reduce poverty and enable financial inclusion. This initiative involved:
 - Developing a blockchain-based currency to provide secure and accessible financial services.
