@@ -32,6 +32,7 @@ Safe Kura is a project I started in 2017, aiming to create a secure and transpar
 - Utilizing AI to analyze voting patterns and detect anomalies.
 
 ### Shillingi Yetu - Decentralized Kenyan Shilling (2025)
+https://github.com/Joymutheu-dev/SHILLINGI-YETU--DECENTRALIZED-KENYAN-SHILLING-
 Shillingi Yetu, launched in 2025, is a project focused on creating a decentralized Kenyan shilling to reduce poverty and enable financial inclusion. This initiative involved:
 - Developing a blockchain-based currency to provide secure and accessible financial services.
 - Empowering individuals and small businesses by facilitating easy and low-cost transactions.
