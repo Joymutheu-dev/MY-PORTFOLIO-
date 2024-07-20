@@ -25,6 +25,7 @@ In 2020, I developed a deep learning model to track individuals with COVID-19 an
 - Implementing a screening tool to assist healthcare professionals in identifying potential cases early.
 
 ### Safe Kura - AI-Powered Blockchain Voting System (2024)
+https://github.com/Joymutheu-dev/BLOCKCHAIN-VOTING-SYSTEM--SAFE-KURA
 Safe Kura is a project I started in 2017, aiming to create a secure and transparent voting system using AI and blockchain technology. The goal was to ensure credible elections in Kenya by:
 - Implementing a decentralized voting system resistant to tampering and fraud.
 - Utilizing AI to analyze voting patterns and detect anomalies.
